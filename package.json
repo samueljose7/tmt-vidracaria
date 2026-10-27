@@ -1,0 +1,17 @@
+{
+  "name": "tmt-marmoraria-vidracaria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TMT Marmoraria, Vidraçaria e Móveis Planejados",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "start": "node scripts/server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/server.mjs --dist",
+    "validate": "node scripts/validate.mjs"
+  }
+}

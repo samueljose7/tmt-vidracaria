@@ -1,0 +1,1 @@
+Verificação automatizada: execute npm run validate e npm run build. Conferir visualmente em navegador antes de publicar. Links de WhatsApp apontam para 5521964327664. Não foi verificado o recebimento real das mensagens.
